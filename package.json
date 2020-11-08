@@ -2,7 +2,7 @@
   "name": "@themoin/greeter",
   "version": "1.0.0",
   "description": "",
-  "main": "Greeter.js",
+  "main": "out/Greeter.js",
   "scripts": {
     "test": "jest",
 		"build": "tsc"
